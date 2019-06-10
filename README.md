@@ -1,8 +1,8 @@
 # 15 Puzzle Game
 In this puzzle the goal is to reach the final state, from an initial configuration. 
 </br>For this the user chooses one of the search algorithms available, as well as which heuristic he intends to use. 
-</br>The result obtained will have the necessary movements to reach the final state from the given initial configuration, as well as other useful 
-statistics.
+</br>The result obtained will have the necessary movements to reach the final state from the given initial configuration, as well as 
+other useful statistics.
 
 ## Compilation:
 ```
