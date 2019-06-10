@@ -46,9 +46,12 @@ Select one of the options above [1-5]: 5
 +---------------------------------+                                                                                     
 |                                 |                                                                                     
 |            Heuristics           |                                                                                     
-|                                 |                                                                                     +---------------------------------+                                                                                     
-|     1. Nº pieces out of place   |                                                                                      +---------------------------------+                                                                                     
-|     2. Manhattan Distance       |                                                                                     +---------------------------------+                                                                                     
+|                                 |                                                                                     
++---------------------------------+                                                                                     
+|     1. Nº pieces out of place   |                                                                                      
++---------------------------------+                                                                                     
+|     2. Manhattan Distance       |                                                                                     
++---------------------------------+                                                                                     
 Select one of the options above [1-2]: 2
 ```
 ### `Output:`
@@ -57,8 +60,8 @@ Searching for path to solution...
 Using A* Algorithm with Heuristic - Manhattan Distance                                                                  
 Solution found!   
                                                                                                                           
-List of moves: [DOWN, DOWN, RIGHT, RIGHT, UP, UP, LEFT, DOWN, DOWN, RIGHT, UP, RIGHT, UP, LEFT, UP, LEFT, LEFT, DOWN, RIGHT, DOWN, LEFT, DOWN,
-RIGHT, RIGHT, UP, UP, UP, RIGHT, DOWN, LEFT, DOWN, LEFT, DOWN, RIGHT, RIGHT]                     
+List of moves: [DOWN, DOWN, RIGHT, RIGHT, UP, UP, LEFT, DOWN, DOWN, RIGHT, UP, RIGHT, UP, LEFT, UP, LEFT, LEFT, 
+DOWN, RIGHT, DOWN, LEFT, DOWN, RIGHT, RIGHT, UP, UP, UP, RIGHT, DOWN, LEFT, DOWN, LEFT, DOWN, RIGHT, RIGHT]                     
 Depth: 35                                                                                                               
 Number of generated nodes: 30575                                                                                        
 Elapsed time to find solution: 0.984375 seconds 
